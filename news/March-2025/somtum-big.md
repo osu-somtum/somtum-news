@@ -47,7 +47,7 @@ This required rebuilding everything, including API endpoints and more. (We'll ge
 > Our goal is to ensure that you get the same immersive experience that we do when developing somtum.
 
 Right now, the website is experimental, so there will be bugs and glitches.
-If you encounter any issues, please report them in #bug-report.
+If you encounter any issues, please report them in our discord server.
 
 That’s all for now! While these updates may seem small, we have even bigger plans for the future.
 Stay tuned for more features and an even better gameplay experience!
