@@ -1,0 +1,13 @@
+[
+    {
+      "path": "news/March-2025/somtum-big.md", # path to markdown
+      "thumbnail": "thumbnail/March-2025/dunno.png", # path to image
+      "title": "somtum v2.0? finally???", # title
+      "author": {
+        "name": "blueskychan_", # player name
+        "playerid": 3 # player id
+      },
+      "date": 1742755200 # UNIX timestamp (GMT: Sunday, March 23, 2025 6:40:00 PM)
+    }
+  ]
+  
