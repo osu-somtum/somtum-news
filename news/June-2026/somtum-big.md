@@ -59,7 +59,17 @@ This is an experimental feature. You can request more osu!dan modes on our **Dis
 
 All players can now upload their own beatmaps, in-game or via the website! Check out the guide here: [somtum.fun/docs/beatmap-upload](https://somtum.fun/docs/beatmap-upload)
 
--# (Beatmap upload is experimental — please report any problems in our Discord server. Some limitations may apply, so read the docs first.)
+#### (Beatmap upload is experimental — please report any problems in our Discord server. Some limitations may apply, so read the docs first.)
+
+---
+
+## 5. 🏅 Custom Achievements
+
+Got an idea for a medal? You can now **submit your own custom medal/achievement ideas** — and even build them yourself — at [somtum.fun/achievements/my-submissions](https://somtum.fun/achievements/my-submissions)!
+
+If our team likes your idea, we'll add it to osu!somtum! Check out our **Discord server** for new medals and medal discussions.
+
+We'll be releasing a video soon on how to make a custom medal in osu!somtum! In the meantime, we've added an **AI prompt** to help you get started — check it out on that page!
 
 ---
 
@@ -92,9 +102,9 @@ All players can now upload their own beatmaps, in-game or via the website! Check
 
 ---
 
-## 💎 More Donator Perks
+## 💎 Donator Perks
 
-**Custom Player Title**
+**Custom Player Title** *(Donator only)*
 > Donators can now customize their own undername title! Choose your own title text and color.
 > -# (Some higher donator tiers may have different options.)
 
@@ -111,7 +121,7 @@ Lots of players requested an Akatsuki-style patcher, and we finally added it —
 
 Check the **docs** for how to connect.
 
--# (The patcher is still experimental and may have issues — please report any problems in our Discord server.)
+#### (The patcher is still experimental and may have issues — please report any problems in our Discord server.)
 
 ---
 
@@ -121,7 +131,7 @@ Want to support osu!somtum? You can now **donate directly through the website** 
 
 We currently accept **TrueMoney** and **PromptPay**.
 
--# (Donations are available for Thailand players only for now. We're working on finding the perfect payment gateway for international players — stay tuned!)
+#### (Donations are available for Thailand players only for now. We're working on finding the perfect payment gateway for international players — stay tuned!)
 
 ---
 
